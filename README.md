@@ -1,4 +1,4 @@
-# machine_learning_for_code
+# machine learning for coding
 Links to "big code" stuff
 
 ### Companies
