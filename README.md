@@ -19,3 +19,6 @@ https://rishabhmit.bitbucket.io/
 
 ### Groups
 https://research.jetbrains.org/groups/ml_methods
+
+### Courses
+http://software-lab.org/teaching/summer2018/asdl/
