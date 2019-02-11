@@ -19,7 +19,8 @@ https://rishabhmit.bitbucket.io/<br/>
 https://www.sri.inf.ethz.ch/people/martin
 
 ### Groups
-https://research.jetbrains.org/groups/ml_methods
+https://research.jetbrains.org/groups/ml_methods<br/>
+https://www.sri.inf.ethz.ch/
 
 ### Courses
 http://software-lab.org/teaching/summer2018/asdl/
