@@ -20,7 +20,8 @@ https://www.sri.inf.ethz.ch/people/martin
 
 ### Groups
 https://research.jetbrains.org/groups/ml_methods<br/>
-https://www.sri.inf.ethz.ch/
+https://www.sri.inf.ethz.ch/<br/>
+http://software-lab.org/index.html
 
 ### Courses
 http://software-lab.org/teaching/summer2018/asdl/
