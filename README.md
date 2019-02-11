@@ -15,7 +15,8 @@ https://github.com/src-d/awesome-machine-learning-on-source-code
 http://software-lab.org/people/Michael_Pradel.html<br/>
 http://www.cs.technion.ac.il/~yahave/<br/>
 https://www.microsoft.com/en-us/research/people/sumitg/<br/>
-https://rishabhmit.bitbucket.io/
+https://rishabhmit.bitbucket.io/<br/>
+https://www.sri.inf.ethz.ch/people/martin
 
 ### Groups
 https://research.jetbrains.org/groups/ml_methods
