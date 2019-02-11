@@ -12,8 +12,8 @@ https://sourced.tech
 https://github.com/src-d/awesome-machine-learning-on-source-code
 
 ### People
-http://software-lab.org/people/Michael_Pradel.html
-http://www.cs.technion.ac.il/~yahave/
+http://software-lab.org/people/Michael_Pradel.html<br/>
+http://www.cs.technion.ac.il/~yahave/<br/>
 https://www.microsoft.com/en-us/research/people/sumitg/
 
 ### Groups
