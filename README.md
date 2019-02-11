@@ -16,5 +16,5 @@ http://software-lab.org/people/Michael_Pradel.html
 http://www.cs.technion.ac.il/~yahave/
 https://www.microsoft.com/en-us/research/people/sumitg/
 
-## Groups
+### Groups
 https://research.jetbrains.org/groups/ml_methods
