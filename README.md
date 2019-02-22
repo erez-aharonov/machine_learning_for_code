@@ -31,3 +31,6 @@ http://software-lab.org/teaching/summer2018/asdl/
 https://www.sri.inf.ethz.ch/py150<br/>
 https://www.sri.inf.ethz.ch/js150<br/>
 https://github.com/src-d/datasets/tree/master/PublicGitArchive
+
+### Articles in focus
+https://www.microsoft.com/en-us/research/uploads/prod/2018/01/icse18-education.pdf
