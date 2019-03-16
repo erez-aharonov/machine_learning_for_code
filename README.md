@@ -14,6 +14,7 @@ http://learnbigcode.github.io/
 
 ### news
 https://www.analyticsindiamag.com/6-machine-learning-tools-that-will-help-you-find-code-bugs/
+https://code.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/
 
 ### People
 http://software-lab.org/people/Michael_Pradel.html<br/>
