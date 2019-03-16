@@ -12,6 +12,9 @@ https://sourced.tech
 https://github.com/src-d/awesome-machine-learning-on-source-code<br/>
 http://learnbigcode.github.io/
 
+### news
+https://www.analyticsindiamag.com/6-machine-learning-tools-that-will-help-you-find-code-bugs/
+
 ### People
 http://software-lab.org/people/Michael_Pradel.html<br/>
 http://www.cs.technion.ac.il/~yahave/<br/>
