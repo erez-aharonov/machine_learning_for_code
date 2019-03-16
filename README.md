@@ -26,7 +26,8 @@ https://www.sri.inf.ethz.ch/people/martin
 ### Groups
 https://research.jetbrains.org/groups/ml_methods<br/>
 https://www.sri.inf.ethz.ch/<br/>
-http://software-lab.org/index.html
+http://software-lab.org/index.html<br/>
+http://pliny.rice.edu/
 
 ### Courses
 http://software-lab.org/teaching/summer2018/asdl/
