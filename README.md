@@ -4,7 +4,8 @@ Links to "big code" stuff
 ### Pay attention for the tech giants
 https://research.fb.com/programs/research-awards/proposals/probability-and-programming-request-for-proposals/</br>
 https://research.fb.com/announcing-the-winners-of-the-probability-and-programming-research-awards/</br>
-https://visualstudio.microsoft.com/services/intellicode/
+https://visualstudio.microsoft.com/services/intellicode/</br>
+https://venturebeat.com/2019/05/20/microsoft-wants-to-apply-ai-to-the-entire-application-developer-lifecycle/
 
 ### Companies
 
