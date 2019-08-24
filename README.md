@@ -46,3 +46,6 @@ https://github.com/src-d/datasets/tree/master/PublicGitArchive
 
 ### Articles in focus
 https://www.microsoft.com/en-us/research/uploads/prod/2018/01/icse18-education.pdf
+
+### Videos
+https://www.youtube.com/watch?v=nsmhtvZquvM</br>
