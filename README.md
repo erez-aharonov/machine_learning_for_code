@@ -6,7 +6,8 @@ https://research.fb.com/programs/research-awards/proposals/probability-and-progr
 https://research.fb.com/announcing-the-winners-of-the-probability-and-programming-research-awards/</br>
 https://research.fb.com/blog/2019/07/registration-now-open-for-the-2019-probability-and-programming-research-workshop-big-code-summit-and-plemm/</br>
 https://visualstudio.microsoft.com/services/intellicode/</br>
-https://venturebeat.com/2019/05/20/microsoft-wants-to-apply-ai-to-the-entire-application-developer-lifecycle/
+https://venturebeat.com/2019/05/20/microsoft-wants-to-apply-ai-to-the-entire-application-developer-lifecycle/<br>
+https://newsroom.intel.com/news/why-more-software-development-needs-go-machines/#gs.d5ajwf
 
 ### Companies
 
@@ -31,7 +32,8 @@ http://software-lab.org/people/Michael_Pradel.html<br/>
 http://www.cs.technion.ac.il/~yahave/<br/>
 https://www.microsoft.com/en-us/research/people/sumitg/<br/>
 https://rishabhmit.bitbucket.io/<br/>
-https://www.sri.inf.ethz.ch/people/martin
+https://www.sri.inf.ethz.ch/people/martin<br>
+https://www.intel.ai/bio/justin-gottschlich/#gs.d56lvn
 
 ### Groups
 https://research.jetbrains.org/groups/ml_methods<br/>
