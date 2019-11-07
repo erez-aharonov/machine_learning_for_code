@@ -2,12 +2,16 @@
 Links to "big code" stuff
 
 ### Pay attention for the tech giants
+## Facebook
 https://research.fb.com/programs/research-awards/proposals/probability-and-programming-request-for-proposals/</br>
 https://research.fb.com/announcing-the-winners-of-the-probability-and-programming-research-awards/</br>
 https://research.fb.com/blog/2019/07/registration-now-open-for-the-2019-probability-and-programming-research-workshop-big-code-summit-and-plemm/</br>
+## Microsoft
 https://visualstudio.microsoft.com/services/intellicode/</br>
 https://venturebeat.com/2019/05/20/microsoft-wants-to-apply-ai-to-the-entire-application-developer-lifecycle/<br>
-https://newsroom.intel.com/news/why-more-software-development-needs-go-machines/#gs.d5ajwf
+https://devblogs.microsoft.com/visualstudio/ai-assisted-developer-tools/
+## Intel
+https://newsroom.intel.com/news/why-more-software-development-needs-go-machines/#gs.d5ajwf>br>
 
 ### Companies
 
