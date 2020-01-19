@@ -1,4 +1,4 @@
-# machine learning for coding
+# machine learning for programming
 Links to "big code" stuff
 
 ## Pay attention for the tech giants
