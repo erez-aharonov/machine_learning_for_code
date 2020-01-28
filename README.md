@@ -23,6 +23,15 @@ https://sourced.tech
 ## Benchmarks
 https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/<br>
 
+## People
+http://software-lab.org/people/Michael_Pradel.html<br/>
+http://www.cs.technion.ac.il/~yahave/<br/>
+https://www.microsoft.com/en-us/research/people/sumitg/<br/>
+https://rishabhmit.bitbucket.io/<br/>
+https://www.sri.inf.ethz.ch/people/martin<br>
+https://www.intel.ai/bio/justin-gottschlich/#gs.d56lvn<br>
+https://www.monperrus.net/martin/
+
 ## Other reference for "Big Code"
 https://github.com/src-d/awesome-machine-learning-on-source-code<br/>
 http://learnbigcode.github.io/
@@ -31,13 +40,6 @@ http://learnbigcode.github.io/
 https://www.analyticsindiamag.com/6-machine-learning-tools-that-will-help-you-find-code-bugs/
 https://code.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/
 
-## People
-http://software-lab.org/people/Michael_Pradel.html<br/>
-http://www.cs.technion.ac.il/~yahave/<br/>
-https://www.microsoft.com/en-us/research/people/sumitg/<br/>
-https://rishabhmit.bitbucket.io/<br/>
-https://www.sri.inf.ethz.ch/people/martin<br>
-https://www.intel.ai/bio/justin-gottschlich/#gs.d56lvn
 
 ## Groups
 https://research.jetbrains.org/groups/ml_methods<br/>
