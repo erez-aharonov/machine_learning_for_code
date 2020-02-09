@@ -18,7 +18,8 @@ https://newsroom.intel.com/news/why-more-software-development-needs-go-machines/
 https://kite.com/<br/>
 https://www.codota.com/<br/>
 https://www.deepcode.ai/<br>
-https://sourced.tech
+https://sourced.tech<br>
+https://tabnine.com/
 
 ## Benchmarks
 https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/<br>
