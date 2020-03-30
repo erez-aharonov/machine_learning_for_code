@@ -31,7 +31,9 @@ https://www.microsoft.com/en-us/research/people/sumitg/<br/>
 https://rishabhmit.bitbucket.io/<br/>
 https://www.sri.inf.ethz.ch/people/martin<br>
 https://www.intel.ai/bio/justin-gottschlich/#gs.d56lvn<br>
-https://www.monperrus.net/martin/
+https://www.monperrus.net/martin/<br>
+https://www.cs.utexas.edu/~isil/<br>
+http://www.cs.utexas.edu/~swarat/<br>
 
 ## Other reference for "Big Code"
 https://github.com/src-d/awesome-machine-learning-on-source-code<br/>
