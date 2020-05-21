@@ -19,7 +19,8 @@ https://kite.com/<br/>
 https://www.codota.com/<br/>
 https://www.deepcode.ai/<br>
 https://sourced.tech<br>
-https://tabnine.com/
+https://tabnine.com/<br>
+https://about.sourcegraph.com/
 
 ## Benchmarks
 https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/<br>
