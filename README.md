@@ -35,6 +35,7 @@ https://www.intel.ai/bio/justin-gottschlich/#gs.d56lvn<br>
 https://www.monperrus.net/martin/<br>
 https://www.cs.utexas.edu/~isil/<br>
 http://www.cs.utexas.edu/~swarat/<br>
+https://www.rayb.info/<br>
 
 ## Other reference for "Big Code"
 https://github.com/src-d/awesome-machine-learning-on-source-code<br/>
