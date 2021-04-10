@@ -78,4 +78,4 @@ https://logz.io/<br>
 https://www.logicmonitor.com/<br>
 
 ## Academic articles
-[2020: Software Logging for Machine Learning] (https://arxiv.org/pdf/2001.10794.pdf)<br>
+(2020: Software Logging for Machine Learning)[https://arxiv.org/pdf/2001.10794.pdf]<br>
