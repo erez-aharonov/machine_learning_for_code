@@ -79,3 +79,4 @@ https://www.logicmonitor.com/<br>
 
 ## Academic articles
 [2020: Software Logging for Machine Learning](https://arxiv.org/pdf/2001.10794.pdf)<br>
+[2013: Automatic Log Analysis using Machine Learning](https://www.diva-portal.org/smash/get/diva2:667650/FULLTEXT01.pdf)
