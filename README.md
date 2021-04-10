@@ -65,3 +65,11 @@ https://www.microsoft.com/en-us/research/uploads/prod/2018/01/icse18-education.p
 
 ## Videos
 https://www.youtube.com/watch?v=nsmhtvZquvM</br>
+
+## Log analyitics
+
+### Articles
+https://coralogix.com/log-analytics-blog/machine-learning-log-analytics/<br>
+
+### Companies
+https://coralogix.com/<br>
