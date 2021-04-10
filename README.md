@@ -74,3 +74,8 @@ https://coralogix.com/log-analytics-blog/machine-learning-log-analytics/<br>
 ### Companies
 https://coralogix.com/<br>
 https://www.zebrium.com/<br>
+https://logz.io/<br>
+https://www.logicmonitor.com/<br>
+
+## Academic articles
+[2020: Software Logging for Machine Learning] (https://arxiv.org/pdf/2001.10794.pdf)<br>
