@@ -73,3 +73,4 @@ https://coralogix.com/log-analytics-blog/machine-learning-log-analytics/<br>
 
 ### Companies
 https://coralogix.com/<br>
+https://www.zebrium.com/<br>
