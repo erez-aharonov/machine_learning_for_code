@@ -2,6 +2,7 @@
 Links to "big code" stuff
 
 ## Pay attention for the tech giants
+https://syncedreview.com/2021/04/09/tum-google-nvidia-lmu-munchens-codetrans-pretrained-models-crack-source-code-tasks-with-sota-performance/<br>
 ### Facebook
 https://research.fb.com/programs/research-awards/proposals/probability-and-programming-request-for-proposals/</br>
 https://research.fb.com/announcing-the-winners-of-the-probability-and-programming-research-awards/</br>
@@ -38,8 +39,9 @@ http://www.cs.utexas.edu/~swarat/<br>
 https://www.rayb.info/<br>
 
 ## Other reference for "Big Code"
-https://github.com/src-d/awesome-machine-learning-on-source-code<br/>
-http://learnbigcode.github.io/
+https://github.com/src-d/awesome-machine-learning-on-source-code<br>
+http://learnbigcode.github.io/<br>
+https://github.com/agemagician/CodeTrans<br>
 
 ## news
 https://www.analyticsindiamag.com/6-machine-learning-tools-that-will-help-you-find-code-bugs/
@@ -61,7 +63,8 @@ https://www.sri.inf.ethz.ch/js150<br/>
 https://github.com/src-d/datasets/tree/master/PublicGitArchive
 
 ## Articles in focus
-https://www.microsoft.com/en-us/research/uploads/prod/2018/01/icse18-education.pdf
+https://www.microsoft.com/en-us/research/uploads/prod/2018/01/icse18-education.pdf<br>
+[CodeTrans: Towards Cracking the Language of Silicone’s Code Through Self-Supervised Deep Learning and High Performance Computing](https://arxiv.org/ftp/arxiv/papers/2104/2104.02443.pdf)<br>
 
 ## Videos
 https://www.youtube.com/watch?v=nsmhtvZquvM</br>
