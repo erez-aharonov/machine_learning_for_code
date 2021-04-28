@@ -21,7 +21,8 @@ https://www.codota.com/<br/>
 https://www.deepcode.ai/<br>
 https://sourced.tech<br>
 https://tabnine.com/<br>
-https://about.sourcegraph.com/
+https://about.sourcegraph.com/<br>
+https://www.microsoft.com/en-us/ai/ai-lab-code-defect<br>
 
 ## Benchmarks
 https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/<br>
