@@ -1,6 +1,9 @@
 # machine learning for programming
 Links to "big code" stuff
 
+### Articles
+https://thenewstack.io/can-ai-find-bugs-in-your-code/<br>
+
 ## Pay attention for the tech giants
 https://syncedreview.com/2021/04/09/tum-google-nvidia-lmu-munchens-codetrans-pretrained-models-crack-source-code-tasks-with-sota-performance/<br>
 ### Facebook
