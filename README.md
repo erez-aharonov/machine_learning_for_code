@@ -14,6 +14,8 @@ https://research.fb.com/blog/2019/07/registration-now-open-for-the-2019-probabil
 https://visualstudio.microsoft.com/services/intellicode/</br>
 https://venturebeat.com/2019/05/20/microsoft-wants-to-apply-ai-to-the-entire-application-developer-lifecycle/<br>
 https://devblogs.microsoft.com/visualstudio/ai-assisted-developer-tools/
+##### Github
+https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/<br>
 ### Intel
 https://newsroom.intel.com/news/why-more-software-development-needs-go-machines/#gs.d5ajwf>br>
 
