@@ -18,6 +18,8 @@ https://devblogs.microsoft.com/visualstudio/ai-assisted-developer-tools/
 https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/<br>
 ### Intel
 https://newsroom.intel.com/news/why-more-software-development-needs-go-machines/#gs.d5ajwf>br>
+### JetBrains
+https://www.infoworld.com/article/3518429/jetbrains-taps-machine-learning-for-full-line-code-completion.html<br>
 
 ## Companies
 
