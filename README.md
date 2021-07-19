@@ -18,6 +18,7 @@ https://devblogs.microsoft.com/visualstudio/ai-assisted-developer-tools/
 https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/<br>
 ### Intel
 https://newsroom.intel.com/news/why-more-software-development-needs-go-machines/#gs.d5ajwf>br>
+https://venturebeat.com/2021/07/18/why-machine-programming-should-be-the-next-technology-you-invest-in/<br>
 ### JetBrains
 https://www.infoworld.com/article/3518429/jetbrains-taps-machine-learning-for-full-line-code-completion.html<br>
 
@@ -30,6 +31,8 @@ https://sourced.tech<br>
 https://tabnine.com/<br>
 https://about.sourcegraph.com/<br>
 https://www.microsoft.com/en-us/ai/ai-lab-code-defect<br>
+https://copilot.github.com/<br>
+https://aws.amazon.com/codeguru/<br>
 
 ## Benchmarks
 https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/<br>
