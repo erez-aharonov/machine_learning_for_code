@@ -33,6 +33,7 @@ https://about.sourcegraph.com/<br>
 https://www.microsoft.com/en-us/ai/ai-lab-code-defect<br>
 https://copilot.github.com/<br>
 https://aws.amazon.com/codeguru/<br>
+https://www.codesee.io/<br>
 
 ## Benchmarks
 https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/<br>
