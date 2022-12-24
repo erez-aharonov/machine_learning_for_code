@@ -65,7 +65,8 @@ https://code.fb.com/developer-tools/finding-and-fixing-software-bugs-automatical
 https://research.jetbrains.org/groups/ml_methods<br/>
 https://www.sri.inf.ethz.ch/<br/>
 http://software-lab.org/index.html<br/>
-http://pliny.rice.edu/
+http://pliny.rice.edu/</br>
+https://www.ifabfoundation.org/ifab-activities/projects/bologna-big-code-lab-bbc-lab/
 
 ## Courses
 http://software-lab.org/teaching/summer2018/asdl/
